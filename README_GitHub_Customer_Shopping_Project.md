@@ -90,4 +90,5 @@ This project demonstrates how integrated analytics—combining Python, SQL, and 
 ## 🤝 Let's Connect!
 If you found this project insightful, feel free to connect with me on LinkedIn, collaborate, or share feedback!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/vaishnavi0303/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/vaishnavi0303/)
+
