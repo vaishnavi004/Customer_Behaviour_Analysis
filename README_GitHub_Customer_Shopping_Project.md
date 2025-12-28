@@ -78,17 +78,6 @@ This enables stakeholders to confidently make data‑driven business decisions.
 ✔️ Power BI Dashboard  
 ✔️ Project Summary & Documentation  
 
----
-
-## 📁 Repository Structure
-```
-📦 Customer-Shopping-Behavior-Analysis
- ├── 📂 data
- ├── 📂 python-scripts
- ├── 📂 sql-queries
- ├── 📂 powerbi-dashboard
- ├── README.md
-```
 
 ---
 
@@ -101,3 +90,4 @@ This project demonstrates how integrated analytics—combining Python, SQL, and 
 ## 🤝 Let's Connect!
 If you found this project insightful, feel free to connect with me on LinkedIn, collaborate, or share feedback!
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/vaishnavi0303/)
